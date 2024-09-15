@@ -1,0 +1,34 @@
+set file_list [list \
+./wb_datapath_new.v \
+./round_func.v \
+./rk_bus.v \
+./mds_bus.v \
+./lut_bus.v \
+./lut_gen.v \
+./linear_trans.v \
+./linear_trans_spn24_enc.v \
+./linear_trans_spn32.v \
+./mixcolumn.v \
+./mult_2_GF24.v \
+./mult_2_GF32.v \
+./mult_4.v \
+./mult_4_GF24.v \
+./mult_4_GF32.v \
+./mult_8d.v \
+./rdc_gen.v \
+./cf_shift_reg.v \
+./cf_shift_reg_1.v \
+./conf_mult_fold.v \
+./keccak_statepermute.v \
+./add_round_key.v \
+./mult_d1.v \
+./mult_68.v \
+./mSPECKEY.v \
+./mSPECKEY_enc_warx.v \
+./mSPECKEY_enc.v \
+./mSPECKEY_dec_warx.v \
+./mSPECKEY_dec.v \
+./none_linear_trans.v \
+./s_box_16.v \
+./s_box_lut.v \
+]
